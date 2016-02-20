@@ -1,0 +1,28 @@
+name: sarahoselldesign
+favicon: null
+layout_spectrum: 0.423547521000728
+typography_spectrum: 0.3784741428680718
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7861025866586715
+  lightness: 0.5527527530211955
+  saturation: 0.6132398620247841
+  rhythmicContrast: 0.8059282389003783
+purpose: []
